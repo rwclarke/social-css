@@ -1,15 +1,19 @@
-#Simple Social CSS Icons
+Simple Social CSS Icons
+———
 
-### Version:</strong> 0.0.3
-### Author:</strong> Ryan Clarke
-### Website: [ryanwclarke.com](http://www.ryanwclarke.com)
+**Version:** 0.0.3
+**Author:** Ryan Clarke
+**Website:** [ryanwclarke.com][1]
 
-###Description:
+Description:
+——
 Create a nice social icon hover effect to your websites projects.
 
-###Steps:
+**Steps:**
 1. Add the social.css file to your CSS folder in your project.
 2. Add the social icons you wish to use in your project to your image folder in your project. 
 3. Finally add the example snippets to your project anywhere you wish to view the social icons.
 
+
+[1]: http://www.ryanwclarke.com
 
