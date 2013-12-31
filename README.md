@@ -3,7 +3,9 @@ Simple Social CSS Icons
 
 
 Version: 0.0.3
+
 Author: Ryan Clarke
+
 Website: http://www.ryanwclarke.com
 
 Description:
