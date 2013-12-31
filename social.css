@@ -1,6 +1,6 @@
 /* 
 Description:        Simple social hover icons CSS
-Version:            0.0.1
+Version:            0.0.2
 Author:             Ryan Clarke
 Author URI:			http://www.ryanwclarke.com
 */
@@ -8,44 +8,44 @@ Author URI:			http://www.ryanwclarke.com
 
 /* signup */
 .social_signup a{
-	background:url('social/signup.png') no-repeat left top;
+	background:url('images/signup.png') no-repeat left top;
 	width:100px;
 	height:50px;
 	display:block;
 }
 .social_signup a:hover{
-	background:url('social/signup.png') no-repeat left bottom;
+	background:url('images/signup.png') no-repeat left bottom;
 }
 
 /* Facebook */
 .social_facebook a{
-	background:url('social/facebook.png') no-repeat left top;
+	background:url('images/facebook.png') no-repeat left top;
 	width:50px;
 	height:50px;
 	display:block;
 }
 .social_facebook a:hover{
-	background:url('social/facebook.png') no-repeat left bottom;
+	background:url('images/facebook.png') no-repeat left bottom;
 }
 
 /* Twitter */
 .social_twitter a{
-	background:url('social/twitter.png') no-repeat left top;
+	background:url('images/twitter.png') no-repeat left top;
 	width:50px;
 	height:50px;
 	display:block;
 }
 .social_twitter a:hover{
-	background:url('social/twitter.png') no-repeat left bottom;
+	background:url('images/twitter.png') no-repeat left bottom;
 }
 
 /* Git Hub */
 .social_github a{
-	background:url(s'social/github.png') no-repeat left top;
+	background:url('images/github.png') no-repeat left top;
 	width:50px;
 	height:50px;
 	display:block;
 }
 .social_github a:hover{
-	background:url('social/github.png') no-repeat left bottom;
+	background:url('images/github.png') no-repeat left bottom;
 }
