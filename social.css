@@ -60,3 +60,47 @@ Author URI:			http://www.ryanwclarke.com
 .social_linkedin a:hover{
 	background:url('images/social-grey.png') no-repeat -200px bottom;
 }
+
+/* Paypal */
+.social_paypal a{
+	background:url('images/social-grey.png') no-repeat -250px top;
+	width:50px;
+	height:50px;
+	display:block;
+}
+.social_paypal a:hover{
+	background:url('images/social-grey.png') no-repeat -250px bottom;
+}
+
+/* Yelp */
+.social_yelp a{
+	background:url('images/social-grey.png') no-repeat -300px top;
+	width:50px;
+	height:50px;
+	display:block;
+}
+.social_yelp a:hover{
+	background:url('images/social-grey.png') no-repeat -300px bottom;
+}
+
+/* Skype */
+.social_skype a{
+	background:url('images/social-grey.png') no-repeat -350px top;
+	width:50px;
+	height:50px;
+	display:block;
+}
+.social_skype a:hover{
+	background:url('images/social-grey.png') no-repeat -350px bottom;
+}
+
+/* google */
+.social_google a{
+	background:url('images/social-grey.png') no-repeat -400px top;
+	width:50px;
+	height:50px;
+	display:block;
+}
+.social_google a:hover{
+	background:url('images/social-grey.png') no-repeat -400px bottom;
+}
