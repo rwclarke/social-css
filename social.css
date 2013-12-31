@@ -6,46 +6,57 @@ Author URI:			http://www.ryanwclarke.com
 */
 
 
-/* signup */
-.social_signup a{
-	background:url('images/signup.png') no-repeat left top;
-	width:100px;
-	height:50px;
-	display:block;
-}
-.social_signup a:hover{
-	background:url('images/signup.png') no-repeat left bottom;
-}
-
 /* Facebook */
 .social_facebook a{
-	background:url('images/facebook.png') no-repeat left top;
+	background:url('images/social-grey.png') no-repeat 0 top;
 	width:50px;
 	height:50px;
 	display:block;
 }
 .social_facebook a:hover{
-	background:url('images/facebook.png') no-repeat left bottom;
+	background:url('images/social-grey.png') no-repeat 0 bottom;
 }
 
 /* Twitter */
 .social_twitter a{
-	background:url('images/twitter.png') no-repeat left top;
+	background:url('images/social-grey.png') no-repeat -50px top;
 	width:50px;
 	height:50px;
 	display:block;
 }
 .social_twitter a:hover{
-	background:url('images/twitter.png') no-repeat left bottom;
+	background:url('images/social-grey.png') no-repeat -50px bottom;
 }
 
 /* Git Hub */
 .social_github a{
-	background:url('images/github.png') no-repeat left top;
+	background:url('images/social-grey.png') no-repeat -100px top;
 	width:50px;
 	height:50px;
 	display:block;
 }
 .social_github a:hover{
-	background:url('images/github.png') no-repeat left bottom;
+	background:url('images/social-grey.png') no-repeat -100px bottom;
+}
+
+/* Pinterest */
+.social_pinterest a{
+	background:url('images/social-grey.png') no-repeat -150px top;
+	width:50px;
+	height:50px;
+	display:block;
+}
+.social_pinterest a:hover{
+	background:url('images/social-grey.png') no-repeat -150px bottom;
+}
+
+/* Linked in */
+.social_linkedin a{
+	background:url('images/social-grey.png') no-repeat -200px top;
+	width:50px;
+	height:50px;
+	display:block;
+}
+.social_linkedin a:hover{
+	background:url('images/social-grey.png') no-repeat -200px bottom;
 }
